@@ -1,0 +1,15 @@
+{
+    "browser" : "chrome",
+    "url": "https://cloud.restroorder.com/login",
+    "menu_create_url": "https://cloud.restroorder.com/menu-item/create",
+    "category_create_url": "https://cloud.restroorder.com/category/create",
+    "unit_create_url" : "https://cloud.restroorder.com/unit",
+    "username": "rakshya123@gmail.com",
+    "password": "R@kshya123",
+    "timeout": 15,
+    "menu_list": "test_data/ProductData.xlsx",
+    "unit_list" : "test_data/unit_data.xlsx",
+    "category_list" : "test_data/categories_only.xlsx"
+}
+
+
