@@ -33,7 +33,7 @@ The framework automates key workflows of a web-based inventory management applic
 
 > Video demonstration of the automated Unit, Category, and Product creation workflows will be added here.
 
-https://github.com/user-attachments/assets/ebe158db-fb41-4245-a014-9508881d63df
+https://github.com/user-attachments/assets/5c3c4f60-ec5b-4302-a3bf-dfd6a5d692c4
 <!-- Video/GIF will be added here -->
 
 ---
